@@ -2,13 +2,13 @@
 # General Site Settings
 
 title: Trojanduck
-logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+logo: assets/images/duck-sticker.png
+#author:
+#description: 
+email: trojanduck.team@gmail.com
+github: https://github.com/trojanduck
+#address: 
+#copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
@@ -38,10 +38,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: We Are <br> Trojanduck <br> Malaysia CTF Team 
 
 social:
-- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-github", link: "https://github.com/trojanduck"}
 - {icon: "ti-instagram", link: "#"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
